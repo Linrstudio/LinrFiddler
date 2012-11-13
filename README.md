@@ -34,7 +34,7 @@ https://github.com/Linrstudio/LinrFiddler/downloads
 
 ## 代码注入
 
-点击“代码注入”，在输入框中输入想要注入页面的代码，即可。代码会被插入至 </body> 前。
+点击“代码注入”，在输入框中输入想要注入页面的代码，即可。代码会被插入至 &lt;/body&gt; 前。
 
 ## 高级
 
