@@ -30,8 +30,7 @@ https://github.com/Linrstudio/LinrFiddler/downloads
 
 * 在新建或编辑页面，列表为空是单击即可添加本地文件，不为空时双击任意条目，添加本地文件；您也可以拖放多个文件或文件夹至列表；
 * 然后选中一条数据，将剪贴板中的网址粘贴即可映射成功；
-* 您还可以手动添加映射内容，点击“手动输入”链接，即可进入文本输入模式，请以这种格式输入：
-   EXACT:url 本地路径
+* 您还可以手动添加映射内容，点击“手动输入”链接，即可进入文本输入模式，请以这种格式输入：EXACT:url 本地路径
 
 ## 代码注入
 
@@ -48,4 +47,3 @@ https://github.com/Linrstudio/LinrFiddler/downloads
 ## 开启 Compat Inspector
 
 此功能为 微软 IE 团队提供。当你的 Web 要兼容 IE10 时，开启它可以动态检测兼容性并给出改进建议；
-
