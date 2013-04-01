@@ -7,10 +7,11 @@
 2. 代码注入；
 3. 请求忽略等；
 4. Fiddler 项目管理；
+5. 请求延时；
 
 ## 下载
 
-https://github.com/Linrstudio/LinrFiddler/downloads
+https://github.com/Linrstudio/LinrFiddler/tree/master/download
 
 2012.11.13 beta
 
