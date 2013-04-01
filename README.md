@@ -1,6 +1,8 @@
 # LinrFiddler
 ===========
 
+<img src="https://github.com/Linrstudio/LinrFiddler/blob/master/ui.png?raw=true" />
+
 通过生成自定义脚本，快速配置 Fiddler:
 
 1. 文件及目录映射；
