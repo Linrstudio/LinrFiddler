@@ -13,7 +13,7 @@
 
 https://github.com/Linrstudio/LinrFiddler/tree/master/download
 
-2012.11.13 beta
+2013.4 beta
 
 ## 使用方法
 
