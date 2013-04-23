@@ -17,6 +17,10 @@ https://github.com/Linrstudio/LinrFiddler/tree/master/download
 
 2013.4 beta
 
+## 视频演示
+
+http://www.tudou.com/programs/view/KqMm9Gg8ilM/
+
 ## 使用方法
 
 打开 Fiddler 后，开启 LinrFiddler；第一次使用，请先新建项目；
