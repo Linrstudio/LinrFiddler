@@ -10,26 +10,27 @@
 3. 请求忽略等；
 4. Fiddler 项目管理；
 5. 请求延时；
+6. 列出最近修改的文件；
 
-## 下载
+## 下载 Download
 
-https://github.com/Linrstudio/LinrFiddler/tree/master/download
+请在 [Download](https://github.com/Linrstudio/LinrFiddler/blob/master/download/LinrFiddler-1.8.25.zip?raw=true 'Download') 下载
 
-2014.1 beta
+2014.8 beta
 
-## 视频演示
+## 视频演示 Video
 
 http://www.tudou.com/programs/view/KqMm9Gg8ilM/
 
-## 使用方法
+## 使用方法 How to
 
 打开 Fiddler 后，开启 LinrFiddler；第一次使用，请先新建项目；
 
-### 新建项目
+### 新建项目 New Project
 
 点击 “New” 方块，进入项目新建页。输入项目名称、hosts 及文件映射，点击保存即可；（除项目名称外其他只有一项可为空）
 
-### 修改项目
+### 修改项目 Config Project
 
 在首页，双击项目方块，进入编辑项目状态；
 
