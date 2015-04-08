@@ -14,7 +14,7 @@
 
 ## 下载 Download
 
-请在 [Download](https://github.com/Linrstudio/LinrFiddler/blob/master/download/LinrFiddler-1.8.31.zip?raw=true 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/LinrFiddler/blob/master/download/LinrFiddler-2.4.8.zip?raw=true 'Download') 下载
 
 2014.8 beta
 
