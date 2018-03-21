@@ -14,9 +14,9 @@
 
 ## 下载 Download
 
-请在 [Download](https://github.com/Linrstudio/LinrFiddler/blob/master/download/LinrFiddler-2.7.24.zip?raw=true 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/LinrFiddler/blob/master/download/LinrFiddler-2.8.0.zip?raw=true 'Download') 下载
 
-2015.7 beta
+2018.3 beta
 
 ## 视频演示 Video
 
